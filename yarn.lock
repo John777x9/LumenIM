@@ -6169,23 +6169,23 @@ wrappy@1:
   resolved "https://registry.npmmirror.com/wrappy/-/wrappy-1.0.2.tgz#b5243d8f3ec1aa35f1364605bc0d1036e30ab69f"
   integrity sha512-l4Sp/DRseor9wL6EvV2+TuQn63dMkPjZ/sp9XkghTEbV9KlPS1xUsZ3u7/IQO4wxtcFB4bgpQPRcR3QCvezPcQ==
 
-xgplayer-subtitles@3.0.10:
-  version "3.0.10"
-  resolved "https://registry.npmmirror.com/xgplayer-subtitles/-/xgplayer-subtitles-3.0.10.tgz#5f47b199fe2b856fac58fa607c1dd9de1c28bc0e"
-  integrity sha512-zdpWLmQu2JhITDIEnV9LqtNMpPxOQf4zcwZ2yxVWjviPtb8CMPA0OBYJ/0uCvI5w2bBY6P7VKcr+r83FQ6PkeQ==
+xgplayer-subtitles@3.0.20:
+  version "3.0.20"
+  resolved "https://registry.yarnpkg.com/xgplayer-subtitles/-/xgplayer-subtitles-3.0.20.tgz#8e06771c101276732a2d89f6b80b8f1a5423e21a"
+  integrity sha512-I1bjsIY+aKOrhYQspLdneOkYg+Vf4cJVGPnDSFnNebnxXl9Mhz5SEpWGzYizMYxL9UvsQ9pgjeEY0o4hkwM+kQ==
   dependencies:
     eventemitter3 "^4.0.7"
 
-xgplayer@^3.0.4:
-  version "3.0.10"
-  resolved "https://registry.npmmirror.com/xgplayer/-/xgplayer-3.0.10.tgz#9fca18716e1cf39787722c03174eae05cd225c90"
-  integrity sha512-lyqVKUOkMeTx9U1DXySHNso2vSfvt249nho+L5sDo+Mroa3dE9mOXJtMs2APG4xEUzj87SiKluh5ha9ytvUg1A==
+xgplayer@^3.0.20:
+  version "3.0.20"
+  resolved "https://registry.yarnpkg.com/xgplayer/-/xgplayer-3.0.20.tgz#79111d5252ae219ae8cad7880f2185aa11fb4b84"
+  integrity sha512-UNKZJRyODOZGdka83ao8fI18xdhzOV8qG4aNEOOkuOQbXFXfXsJMr/dazRHFP+uXmTqiCXr568euee3ch7CS7g==
   dependencies:
     danmu.js ">=1.1.6"
     delegate "^3.2.0"
     downloadjs "1.4.7"
     eventemitter3 "^4.0.7"
-    xgplayer-subtitles "3.0.10"
+    xgplayer-subtitles "3.0.20"
 
 xml-name-validator@^4.0.0:
   version "4.0.0"
