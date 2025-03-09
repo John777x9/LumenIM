@@ -20,7 +20,7 @@
     "@kangc/v-md-editor": "^2.3.18",
     "@vueup/vue-quill": "^1.2.0",
     "@vueuse/core": "^10.7.0",
-    "axios": "^1.6.2",
+    "axios": "^1.8.2",
     "highlight.js": "^11.5.0",
     "js-audio-recorder": "^1.0.7",
     "pinia": "^2.1.7",
